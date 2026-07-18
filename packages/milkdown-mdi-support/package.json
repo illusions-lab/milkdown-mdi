@@ -1,6 +1,6 @@
 {
   "name": "milkdown-mdi-support",
-  "version": "0.0.0",
+  "version": "2.0.1",
   "description": "Milkdown plugin for MDI 2.0 (illusion Markdown) syntax support",
   "license": "MIT",
   "type": "module",
