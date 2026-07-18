@@ -18,9 +18,9 @@ This repository was split out of the `illusions` project's original `milkdown-pl
 
 ### Relationship to mdi-js / mdi-js との関係
 
-`milkdown-mdi-support` depends on [`micromark-extension-mdi`](https://github.com/illusions-lab/mdi-js) (once published) for the same validation/disambiguation rules used by the export path (`remark-mdi`), so the editor and exported documents never disagree on how a given piece of MDI syntax should parse.
+`milkdown-mdi-support` depends on [`micromark-extension-mdi`](https://github.com/illusions-lab/mdi-js) (once published) for the same validation/disambiguation rules used by the export path (`@mdi/remark`), so the editor and exported documents never disagree on how a given piece of MDI syntax should parse.
 
-`milkdown-mdi-support` は（公開後）[`micromark-extension-mdi`](https://github.com/illusions-lab/mdi-js) の検証・曖昧性解決ロジックに依存します。これにより、エディタ側とエクスポート側（`remark-mdi`）の解釈が食い違うことを防ぎます。
+`milkdown-mdi-support` は（公開後）[`micromark-extension-mdi`](https://github.com/illusions-lab/mdi-js) の検証・曖昧性解決ロジックに依存します。これにより、エディタ側とエクスポート側（`@mdi/remark`）の解釈が食い違うことを防ぎます。
 
 ---
 
